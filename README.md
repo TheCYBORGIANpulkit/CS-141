@@ -1,2 +1,2 @@
 # CS-141
-Subhankar Sirs class
+Subhankar Sir's class 2018 @ NISER
