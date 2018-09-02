@@ -14,5 +14,5 @@ int a, s=2, i=2;
 	while (i < n)
 	{i=i+2,s=s+i;} 
 	cout<< "sum of even numbers from 2 to "<< n <<" is "<< s <<endl;
-	return 0;
+	return 0; // to print the statement result
 }
