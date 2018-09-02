@@ -9,15 +9,15 @@ int a,b,c;	// to ask the user for input and get two integers as output.
 	cin>> b;
 	cin>> c;
 	
-	if(a>b && a>c) //to compare them and execute the first case
+	if(a>b && a>c) //to compare them and execute the first case and print the result
 	{
 	cout<< "Your first input i.e. "<< a << " is the greatest."<< endl;
 	}
-	else if(b>a && b>c)
+	else if(b>a && b>c)//to compare them and execute the second case and print the result
 	{
 	cout<< "Your second input i.e. "<< b << "  was greater than the other two."<< endl;
 	}
-	if(c>a && c>b) 
+	if(c>a && c>b) 	 //to compare them and execute the third case and print the result
 	{
 	cout<< "Your third input i.e. "<< c << " was greater than the other two."<<endl;
 	}
