@@ -12,7 +12,7 @@ int n;
 int a, s=2, i=2;
 	//to sum all the from 1 to n using loop
 	while (i < n)
-	{i=i+2,s=s+i;} 
+	{i=i+2,s=s+i;} // in this case variable should be increased by 2 
 	cout<< "sum of even numbers from 2 to "<< n <<" is "<< s <<endl;
 	return 0; // to print the statement result
 }
