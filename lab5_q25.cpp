@@ -11,8 +11,8 @@ int main()
 
 		cout<< "Hello, " << variable <<" here is the list of all the even numbers from 1 to 100 "<<endl;
 							// to print the statement before result
-	int i=2;
-	while(i<=100){
+	int i=2;			// to declare the varuiable
+	while(i<=100){			// to print the sequence using loop
 		cout<< i <<endl;
 		i=i+2;}
 	return 0;
