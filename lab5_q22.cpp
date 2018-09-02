@@ -10,7 +10,7 @@ int main()
 			//to loop the variabnle while increasing it by one
 	int i=1;
 	cout<< "Here are all the natural no. from 1 to" << n <<endl;
-	while(i<=n){ 
+	while(i<=n){	//to use loop to print all the naturl no. from 1 to n
 		cout<< i <<endl;
 		i++;
 		}
