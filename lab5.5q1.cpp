@@ -10,7 +10,7 @@ int main()
 	{		//to print the stars in a row for every column 
 			for(int j=0;j<a;j++)
 			{	cout<<"*";
-			}
+			} //to end the line
 				cout<<endl;
 		
 	}
