@@ -9,7 +9,7 @@ void funcR(int a, int b, int &t){
 //defining the main function
 int main(){
 	int a,b, sum;
-	cout<< "please input two numbers. We'll input them."<<endl;
+	cout<< "please input two numbers. We'll sum them."<<endl;
 		cin>>a>>b;
 	//declaring the variable
 	
