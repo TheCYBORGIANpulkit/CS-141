@@ -2,7 +2,7 @@
 using namespace std;
 
 //defining the function
-//eith two integer parameters
+//With two integer parameters
 //return the sum
 int func(int &a, int &b){
 	int sum;
