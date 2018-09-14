@@ -4,7 +4,7 @@ using namespace std;
 //defining the function
 //With two integer parameters
 //return the sum
-int func(int &a, int &b){
+int func(int a, int b){
 	int sum;
 	sum=a+b;
 	return sum;
