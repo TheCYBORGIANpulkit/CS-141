@@ -22,7 +22,7 @@ int main(){
 	//call the function
 	funcR(a,b,max);
 	//print the ouput statement
-		cout<<"The maximum among your numbers is"<<max<<endl;
+		cout<<"The maximum among your numbers is "<<max<<endl;
 		return 0;
 }
 
